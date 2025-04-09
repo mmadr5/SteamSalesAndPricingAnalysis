@@ -15,7 +15,7 @@ def fetch_all_steamspy_data(max_pages=None):
         response = requests.get(BASE_URL, params=params)
         
         if response.status_code != 200:
-            print(f"Failed to fetch page {page}, status code: {response.status_code}")
+            print(f"Failed to fetch page {page}, status code: {response.status_code} - {response.text} - {response.headers}")
             break
 
         data = response.json()
