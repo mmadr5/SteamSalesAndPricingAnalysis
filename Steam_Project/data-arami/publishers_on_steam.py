@@ -12,7 +12,7 @@ headers = {
 
 all_publishers = []
 page = 0
-limit = 50
+limit = 1000
 
 print("🔁 Starting publisher data retrieval...")
 
