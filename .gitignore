@@ -1,0 +1,41 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+.env/
+.envrc
+.venv/
+*.env
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore VSCode settings (if you're using VS Code)
+.vscode/
+
+# Ignore data files (optional)
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.json
+*.db
+*.sqlite3
+
+# Ignore large model files / outputs (optional)
+*.h5
+*.pt
+*.pkl
+*.joblib
+
+# Ignore output plots / figures (optional)
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Ignore system-specific or metadata files
+.DS_Store
+Thumbs.db
