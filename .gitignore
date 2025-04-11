@@ -16,25 +16,26 @@ venv/
 .vscode/
 
 # Ignore data files (optional)
-*.csv
-*.tsv
-*.xls
-*.xlsx
-*.json
-*.db
-*.sqlite3
+# *.csv
+# *.tsv
+# *.xls
+# *.xlsx
+# *.json
+# *.db
+# *.sqlite3
 
 # Ignore large model files / outputs (optional)
-*.h5
-*.pt
-*.pkl
-*.joblib
+# *.h5
+# *.pt
+# *.pkl
+# *.joblib
 
 # Ignore output plots / figures (optional)
-*.png
-*.jpg
-*.jpeg
-*.pdf
+# *.png
+# *.jpg
+# *.jpeg
+# *.pdf
+
 
 # Ignore system-specific or metadata files
 .DS_Store
