@@ -31,9 +31,9 @@ venv/
 # *.joblib
 
 # Ignore output plots / figures (optional)
-# *.png
-# *.jpg
-# *.jpeg
+*.png
+*.jpg
+*.jpeg
 # *.pdf
 
 
