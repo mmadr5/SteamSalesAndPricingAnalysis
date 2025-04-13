@@ -1,0 +1,359 @@
+[
+    {
+        "appid": 292030,
+        "name": "The Witcher 3: Wild Hunt",
+        "genre": "RPG",
+        "publisher": "CD PROJEKT RED",
+        "type": "AAA"
+    },
+    {
+        "appid": 271590,
+        "name": "Grand Theft Auto V",
+        "genre": "Action",
+        "publisher": "Rockstar Games",
+        "type": "AAA"
+    },
+    {
+        "appid": 578080,
+        "name": "PUBG: Battlegrounds",
+        "genre": "Shooter",
+        "publisher": "KRAFTON, Inc.",
+        "type": "AAA"
+    },
+    {
+        "appid": 1174180,
+        "name": "Red Dead Redemption 2",
+        "genre": "Action-Adventure",
+        "publisher": "Rockstar Games",
+        "type": "AAA"
+    },
+    {
+        "appid": 413150,
+        "name": "Stardew Valley",
+        "genre": "Simulation, Farming",
+        "publisher": "ConcernedApe",
+        "type": "Indie"
+    },
+    {
+        "appid": 252490,
+        "name": "Rust",
+        "genre": "Survival",
+        "publisher": "Facepunch Studios",
+        "type": "Indie"
+    },
+    {
+        "appid": 275850,
+        "name": "No Man's Sky",
+        "genre": "Exploration",
+        "publisher": "Hello Games",
+        "type": "Indie"
+    },
+    {
+        "appid": 394360,
+        "name": "Hearts of Iron IV",
+        "genre": "Strategy",
+        "publisher": "Paradox Interactive",
+        "type": "AAA"
+    },
+    {
+        "appid": 105600,
+        "name": "Terraria",
+        "genre": "Adventure",
+        "publisher": "Re-Logic",
+        "type": "Indie"
+    },
+    {
+        "appid": 739630,
+        "name": "Phasmophobia",
+        "genre": "Horror",
+        "publisher": "Kinetic Games",
+        "type": "Indie"
+    },
+    {
+        "appid": 1145360,
+        "name": "Hades",
+        "genre": "Rogue-like",
+        "publisher": "Supergiant Games",
+        "type": "Indie"
+    },
+    {
+        "appid": 1794680,
+        "name": "Vampire Survivors",
+        "genre": "Action Roguelite",
+        "publisher": "poncle",
+        "type": "Indie"
+    },
+    {
+        "appid": 892970,
+        "name": "Valheim",
+        "genre": "Survival",
+        "publisher": "Coffee Stain Publishing",
+        "type": "Indie"
+    },
+    {
+        "appid": 414700,
+        "name": "Outlast 2",
+        "genre": "Horror",
+        "publisher": "Red Barrels",
+        "type": "Indie"
+    },
+    {
+        "appid": 391540,
+        "name": "Undertale",
+        "genre": "RPG",
+        "publisher": "tobyfox",
+        "type": "Indie"
+    },
+    {
+        "appid": 952060,
+        "name": "Resident Evil 3",
+        "genre": "Horror",
+        "publisher": "CAPCOM Co., Ltd.",
+        "type": "AAA"
+    },
+    {
+        "appid": 883710,
+        "name": "Resident Evil 2",
+        "genre": "Horror",
+        "publisher": "CAPCOM Co., Ltd.",
+        "type": "AAA"
+    },
+    {
+        "appid": 2050650,
+        "name": "Resident Evil 4",
+        "genre": "Horror",
+        "publisher": "CAPCOM Co., Ltd.",
+        "type": "AAA"
+    },
+    {
+        "appid": 990080,
+        "name": "Hogwarts Legacy",
+        "genre": "RPG",
+        "publisher": "Warner Bros. Games",
+        "type": "AAA"
+    },
+    {
+        "appid": 1583230,
+        "name": "High On Life",
+        "genre": "Action",
+        "publisher": "Squanch Games, Inc.",
+        "type": "Indie"
+    },
+    {
+        "appid": 860510,
+        "name": "Little Nightmares II",
+        "genre": "Adventure",
+        "publisher": "Bandai Namco",
+        "type": "AAA"
+    },
+    {
+        "appid": 1245620,
+        "name": "ELDEN RING",
+        "genre": "RPG",
+        "publisher": "Bandai Namco",
+        "type": "AAA"
+    },
+    {
+        "appid": 620,
+        "name": "Portal 2",
+        "genre": "Puzzle",
+        "publisher": "Valve",
+        "type": "AAA"
+    },
+    {
+        "appid": 400,
+        "name": "Portal",
+        "genre": "Puzzle",
+        "publisher": "Valve",
+        "type": "AAA"
+    },
+    {
+        "appid": 346110,
+        "name": "ARK: Survival Evolved",
+        "genre": "Survival",
+        "publisher": "Studio Wildcard",
+        "type": "AAA"
+    },
+    {
+        "appid": 238960,
+        "name": "Path of Exile",
+        "genre": "RPG",
+        "publisher": "Grinding Gear Games",
+        "type": "Indie"
+    },
+    {
+        "appid": 504230,
+        "name": "Celeste",
+        "genre": "Platformer",
+        "publisher": "Matt Makes Games",
+        "type": "Indie"
+    },
+    {
+        "appid": 613100,
+        "name": "House Flipper",
+        "genre": "Simulation",
+        "publisher": "Frozen District",
+        "type": "Indie"
+    },
+    {
+        "appid": 294100,
+        "name": "RimWorld",
+        "genre": "Simulation",
+        "publisher": "Ludeon Studios",
+        "type": "Indie"
+    },
+    {
+        "appid": 289070,
+        "name": "Sid Meier\u2019s Civilization VI",
+        "genre": "Strategy",
+        "publisher": "2K",
+        "type": "AAA"
+    },
+    {
+        "appid": 22380,
+        "name": "Fallout: New Vegas",
+        "genre": "RPG",
+        "publisher": "Bethesda",
+        "type": "AAA"
+    },
+    {
+        "appid": 49520,
+        "name": "Borderlands 2",
+        "genre": "Shooter",
+        "publisher": "2K",
+        "type": "AAA"
+    },
+    {
+        "appid": 582660,
+        "name": "Black Desert",
+        "genre": "MMORPG",
+        "publisher": "Pearl Abyss",
+        "type": "AAA"
+    },
+    {
+        "appid": 381210,
+        "name": "Dead by Daylight",
+        "genre": "Horror",
+        "publisher": "Behaviour Interactive Inc.",
+        "type": "AAA"
+    },
+    {
+        "appid": 418240,
+        "name": "Shadow Tactics: Blades of the Shogun",
+        "genre": "Strategy",
+        "publisher": "Daedalic Entertainment",
+        "type": "Indie"
+    },
+    {
+        "appid": 377160,
+        "name": "Fallout 4",
+        "genre": "RPG",
+        "publisher": "Bethesda",
+        "type": "AAA"
+    },
+    {
+        "appid": 1144200,
+        "name": "Ready or Not",
+        "genre": "Tactical Shooter",
+        "publisher": "VOID Interactive",
+        "type": "Indie"
+    },
+    {
+        "appid": 582010,
+        "name": "Monster Hunter: World",
+        "genre": "Action",
+        "publisher": "Capcom",
+        "type": "AAA"
+    },
+    {
+        "appid": 602960,
+        "name": "Barotrauma",
+        "genre": "Co-op, Submarine, Horror",
+        "publisher": "Daedalic Entertainment",
+        "type": "Indie"
+    },
+    {
+        "appid": 1172620,
+        "name": "Sea of Thieves",
+        "genre": "Adventure, Multiplayer",
+        "publisher": "Microsoft Studios",
+        "type": "AAA"
+    },
+    {
+        "appid": 242760,
+        "name": "The Forest",
+        "genre": "Survival",
+        "publisher": "Endnight Games Ltd",
+        "type": "Indie"
+    },
+    {
+        "appid": 1326470,
+        "name": "Sons Of The Forest",
+        "genre": "Survival",
+        "publisher": "Endnight Games Ltd",
+        "type": "Indie"
+    },
+    {
+        "appid": 1599600,
+        "name": "PlateUp!",
+        "genre": "Cooking, Co-op",
+        "publisher": "Yogscast Games",
+        "type": "Indie"
+    },
+    {
+        "appid": 427520,
+        "name": "Factorio",
+        "genre": "Automation, Strategy",
+        "publisher": "Wube Software LTD.",
+        "type": "Indie"
+    },
+    {
+        "appid": 526870,
+        "name": "Satisfactory",
+        "genre": "Automation, Simulation",
+        "publisher": "Coffee Stain Publishing",
+        "type": "Indie"
+    },
+    {
+        "appid": 548430,
+        "name": "Deep Rock Galactic",
+        "genre": "Co-op, Shooter",
+        "publisher": "Coffee Stain Publishing",
+        "type": "Indie"
+    },
+    {
+        "appid": 1621690,
+        "name": "Core Keeper",
+        "genre": "Adventure",
+        "publisher": "Fireshine Games",
+        "type": "Indie"
+    },
+    {
+        "appid": 108600,
+        "name": "Project Zomboid",
+        "genre": "Survival",
+        "publisher": "The Indie Stone",
+        "type": "Indie"
+    },
+    {
+        "appid": 306130,
+        "name": "The Elder Scrolls Online",
+        "genre": "MMORPG",
+        "publisher": "Bethesda",
+        "type": "AAA"
+    },
+    {
+        "appid": 1158310,
+        "name": "Crusader Kings III",
+        "genre": "Grand Strategy",
+        "publisher": "Paradox Interactive",
+        "type": "AAA"
+    },
+    {
+        "appid": 359550,
+        "name": "Rainbow Six Siege",
+        "genre": "Shooter",
+        "publisher": "Ubisoft",
+        "type": "AAA"
+    }
+]
