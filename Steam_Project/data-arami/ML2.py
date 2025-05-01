@@ -1,3 +1,10 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import os
+import json
+
+
 # Load the JSON game list
 with open("100_Steam_Assortment.json", "r", encoding="utf-8") as f:
     games = json.load(f)

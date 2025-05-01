@@ -355,5 +355,348 @@
         "genre": "Shooter",
         "publisher": "Ubisoft",
         "type": "AAA"
+    },
+    {
+        "appid": 962130,
+        "name": "Grounded",
+        "genre": "Survival",
+        "publisher": "Xbox Game Studios",
+        "type": "AAA"
+    },
+    {
+        "appid": 1167630,
+        "name": "Teardown",
+        "genre": "Destruction, Physics",
+        "publisher": "Tuxedo Labs",
+        "type": "Indie"
+    },
+    {
+        "appid": 1210320,
+        "name": "Potion Craft",
+        "genre": "Simulation",
+        "publisher": "tinyBuild",
+        "type": "Indie"
+    },
+    {
+        "appid": 1313140,
+        "name": "Cult of the Lamb",
+        "genre": "Roguelite",
+        "publisher": "Devolver Digital",
+        "type": "Indie"
+    },
+    {
+        "appid": 553420,
+        "name": "Tunic",
+        "genre": "Action-Adventure",
+        "publisher": "Finji",
+        "type": "Indie"
+    },
+    {
+        "appid": 990080,
+        "name": "Hogwarts Legacy",
+        "genre": "RPG",
+        "publisher": "Warner Bros. Games",
+        "type": "AAA"
+    },
+    {
+        "appid": 20900,
+        "name": "The Witcher: Enhanced Edition",
+        "genre": "RPG",
+        "publisher": "CD PROJEKT RED",
+        "type": "AAA"
+    },
+    {
+        "appid": 739630,
+        "name": "Phasmophobia",
+        "genre": "Horror, Co-op",
+        "publisher": "Kinetic Games",
+        "type": "Indie"
+    },
+    {
+        "appid": 7670,
+        "name": "BioShock",
+        "genre": "FPS",
+        "publisher": "2K",
+        "type": "AAA"
+    },
+    {
+        "appid": 1091500,
+        "name": "Cyberpunk 2077",
+        "genre": "RPG",
+        "publisher": "CD PROJEKT RED",
+        "type": "AAA"
+    },
+    {
+        "appid": 314160,
+        "name": "Microsoft Flight Simulator",
+        "genre": "Simulation",
+        "publisher": "Xbox Game Studios",
+        "type": "AAA"
+    },
+    {
+        "appid": 311690,
+        "name": "Enter the Gungeon",
+        "genre": "Roguelike",
+        "publisher": "Devolver Digital",
+        "type": "Indie"
+    },
+    {
+        "appid": 250900,
+        "name": "The Binding of Isaac: Rebirth",
+        "genre": "Roguelike",
+        "publisher": "Nicalis, Inc.",
+        "type": "Indie"
+    },
+    {
+        "appid": 1282730,
+        "name": "Loop Hero",
+        "genre": "Roguelite",
+        "publisher": "Devolver Digital",
+        "type": "Indie"
+    },
+    {
+        "appid": 207610,
+        "name": "The Walking Dead",
+        "genre": "Adventure",
+        "publisher": "Telltale Games",
+        "type": "Indie"
+    },
+    {
+        "appid": 823130,
+        "name": "Totally Accurate Battlegrounds",
+        "genre": "Battle Royale",
+        "publisher": "Landfall",
+        "type": "Indie"
+    },
+    {
+        "appid": 473950,
+        "name": "Manifold Garden",
+        "genre": "Puzzle",
+        "publisher": "William Chyr Studio",
+        "type": "Indie"
+    },
+    {
+        "appid": 1295920,
+        "name": "The Mortuary Assistant",
+        "genre": "Horror",
+        "publisher": "DreadXP",
+        "type": "Indie"
+    },
+    {
+        "appid": 1657630,
+        "name": "Slime Rancher 2",
+        "genre": "Simulation",
+        "publisher": "Monomi Park",
+        "type": "Indie"
+    },
+    {
+        "appid": 1086940,
+        "name": "Baldur\u2019s Gate 3",
+        "genre": "RPG",
+        "publisher": "Larian Studios",
+        "type": "AAA"
+    },
+    {
+        "appid": 233860,
+        "name": "Kenshi",
+        "genre": "Sandbox, Strategy",
+        "publisher": "Lo-Fi Games",
+        "type": "Indie"
+    },
+    {
+        "appid": 322170,
+        "name": "Geometry Dash",
+        "genre": "Rhythm, Platformer",
+        "publisher": "RobTop Games",
+        "type": "Indie"
+    },
+    {
+        "appid": 72850,
+        "name": "The Elder Scrolls V: Skyrim",
+        "genre": "RPG",
+        "publisher": "Bethesda",
+        "type": "AAA"
+    },
+    {
+        "appid": 780310,
+        "name": "The Riftbreaker",
+        "genre": "Action RPG",
+        "publisher": "EXOR Studios",
+        "type": "Indie"
+    },
+    {
+        "appid": 1843760,
+        "name": "Rogue Tower",
+        "genre": "Tower Defense",
+        "publisher": "Die of Death Games",
+        "type": "Indie"
+    },
+    {
+        "appid": 262060,
+        "name": "Darkest Dungeon",
+        "genre": "RPG",
+        "publisher": "Red Hook Studios",
+        "type": "Indie"
+    },
+    {
+        "appid": 8930,
+        "name": "Sid Meier's Civilization V",
+        "genre": "Strategy",
+        "publisher": "2K",
+        "type": "AAA"
+    },
+    {
+        "appid": 632360,
+        "name": "Risk of Rain 2",
+        "genre": "Roguelike",
+        "publisher": "Gearbox Publishing",
+        "type": "Indie"
+    },
+    {
+        "appid": 305620,
+        "name": "The Long Dark",
+        "genre": "Survival",
+        "publisher": "Hinterland Studio Inc.",
+        "type": "Indie"
+    },
+    {
+        "appid": 268910,
+        "name": "Cuphead",
+        "genre": "Platformer",
+        "publisher": "Studio MDHR",
+        "type": "Indie"
+    },
+    {
+        "appid": 242920,
+        "name": "Banished",
+        "genre": "City Builder",
+        "publisher": "Shining Rock Software LLC",
+        "type": "Indie"
+    },
+    {
+        "appid": 239030,
+        "name": "Papers, Please",
+        "genre": "Simulation",
+        "publisher": "3909",
+        "type": "Indie"
+    },
+    {
+        "appid": 218620,
+        "name": "PAYDAY 2",
+        "genre": "Shooter",
+        "publisher": "Starbreeze Publishing AB",
+        "type": "AAA"
+    },
+    {
+        "appid": 814380,
+        "name": "Sekiro: Shadows Die Twice",
+        "genre": "Action",
+        "publisher": "Activision",
+        "type": "AAA"
+    },
+    {
+        "appid": 7940,
+        "name": "Call of Duty 4: Modern Warfare",
+        "genre": "Shooter",
+        "publisher": "Activision",
+        "type": "AAA"
+    },
+    {
+        "appid": 239140,
+        "name": "Dying Light",
+        "genre": "Action",
+        "publisher": "Techland",
+        "type": "AAA"
+    },
+    {
+        "appid": 646570,
+        "name": "Slay the Spire",
+        "genre": "Deckbuilder",
+        "publisher": "MegaCrit",
+        "type": "Indie"
+    },
+    {
+        "appid": 219990,
+        "name": "Grim Dawn",
+        "genre": "Action RPG",
+        "publisher": "Crate Entertainment",
+        "type": "Indie"
+    },
+    {
+        "appid": 237990,
+        "name": "The Banner Saga",
+        "genre": "Strategy",
+        "publisher": "Versus Evil",
+        "type": "Indie"
+    },
+    {
+        "appid": 1946700,
+        "name": "Layers of Fear",
+        "genre": "Horror",
+        "publisher": "Bloober Team SA",
+        "type": "Indie"
+    },
+    {
+        "appid": 383870,
+        "name": "Firewatch",
+        "genre": "Adventure",
+        "publisher": "Campo Santo",
+        "type": "Indie"
+    },
+    {
+        "appid": 255710,
+        "name": "Cities: Skylines",
+        "genre": "Simulation",
+        "publisher": "Paradox Interactive",
+        "type": "AAA"
+    },
+    {
+        "appid": 322330,
+        "name": "Don't Starve Together",
+        "genre": "Survival",
+        "publisher": "Klei Entertainment",
+        "type": "Indie"
+    },
+    {
+        "appid": 221100,
+        "name": "DayZ",
+        "genre": "Survival",
+        "publisher": "Bohemia Interactive",
+        "type": "AAA"
+    },
+    {
+        "appid": 113200,
+        "name": "The Binding of Isaac",
+        "genre": "Roguelike",
+        "publisher": "Edmund McMillen",
+        "type": "Indie"
+    },
+    {
+        "appid": 582160,
+        "name": "Assassin's Creed Origins",
+        "genre": "Action RPG",
+        "publisher": "Ubisoft",
+        "type": "AAA"
+    },
+    {
+        "appid": 550,
+        "name": "Left 4 Dead 2",
+        "genre": "Shooter",
+        "publisher": "Valve",
+        "type": "AAA"
+    },
+    {
+        "appid": 1089980,
+        "name": "The Henry Stickmin Collection",
+        "genre": "Adventure",
+        "publisher": "Innersloth",
+        "type": "Indie"
+    },
+    {
+        "appid": 250320,
+        "name": "Outlast",
+        "genre": "Horror",
+        "publisher": "Red Barrels",
+        "type": "Indie"
     }
 ]
